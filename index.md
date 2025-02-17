@@ -6,12 +6,10 @@
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 ## Next lesson - Code 
-''' 
-$ git init
+''' $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 '''
 
-'''
-Javascript
+'''Javascript
 var myVar = "Hello, world!";
 '''
